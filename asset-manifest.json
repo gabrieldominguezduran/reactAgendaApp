@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/reactAgendaApp/static/css/main.be56f562.chunk.css",
+    "main.js": "/reactAgendaApp/static/js/main.e174be18.chunk.js",
+    "main.js.map": "/reactAgendaApp/static/js/main.e174be18.chunk.js.map",
+    "runtime~main.js": "/reactAgendaApp/static/js/runtime~main.cfa8db4d.js",
+    "runtime~main.js.map": "/reactAgendaApp/static/js/runtime~main.cfa8db4d.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/reactAgendaApp/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.9739a4e9.chunk.js": "/reactAgendaApp/static/js/2.9739a4e9.chunk.js",
+    "static/js/2.9739a4e9.chunk.js.map": "/reactAgendaApp/static/js/2.9739a4e9.chunk.js.map",
+    "index.html": "/reactAgendaApp/index.html",
+    "precache-manifest.d3f47b0ae7f0dabc5c5c870d7486caae.js": "/reactAgendaApp/precache-manifest.d3f47b0ae7f0dabc5c5c870d7486caae.js",
+    "service-worker.js": "/reactAgendaApp/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/reactAgendaApp/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.be56f562.chunk.css.map": "/reactAgendaApp/static/css/main.be56f562.chunk.css.map"
+  }
+}
